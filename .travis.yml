@@ -11,6 +11,4 @@ branches:
   only:
   - master
 
-script:
-  - npm test
-  - npm run codecov
+script: true
